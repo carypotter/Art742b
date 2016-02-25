@@ -12,11 +12,11 @@
         
 
 
-        git init 
-        git remote add orgin github.com/carypotter/Art742b.git
-        git add -A 
-        git commit -m "Initial commit" 
-        git push
+    git init
+    git add -A
+    git commit -m "first commit"
+    git remote add origin https://github.com/carypotter/Art742b.git
+    git push -u origin master
         
 Change the remote URL based on what it says in your Github repo.
 
